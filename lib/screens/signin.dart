@@ -255,7 +255,7 @@ class _SigninScreenState extends State<SigninScreen> {
             height: MediaQuery.of(context).size.height/1.8,
             color: Colors.black,
             child: Padding(
-              padding: const EdgeInsets.only(top:50.0),
+              padding: const EdgeInsets.only(top:20.0),
               child: ListView(
                 children: [
                   Padding(
